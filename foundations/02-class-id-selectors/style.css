@@ -2,3 +2,17 @@
     background-color: rgba(210, 140, 140, 1);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+.large {
+    font-size: 24px;
+}
+
+#two {
+    color: rgba(0, 0, 255, 1);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgba(140  , 215, 140 , 1);
+    font-weight: bold;
+}
